@@ -1,0 +1,1 @@
+{"<PAD>": 0, "O": 1, "B-SpecificDisease": 2, "I-SpecificDisease": 3, "B-DiseaseClass": 4, "I-DiseaseClass": 5, "B-Modifier": 6, "I-Modifier": 7, "B-CompositeMention": 8, "I-CompositeMention": 9}

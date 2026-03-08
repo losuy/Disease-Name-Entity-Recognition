@@ -1,0 +1,33 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "tokens": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "ner_tags": {
+      "feature": {
+        "names": [
+          "<PAD>",
+          "O",
+          "B-SpecificDisease",
+          "I-SpecificDisease",
+          "B-DiseaseClass",
+          "I-DiseaseClass",
+          "B-Modifier",
+          "I-Modifier",
+          "B-CompositeMention",
+          "I-CompositeMention"
+        ],
+        "_type": "ClassLabel"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
